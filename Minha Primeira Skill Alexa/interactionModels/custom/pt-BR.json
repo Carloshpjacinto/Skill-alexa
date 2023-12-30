@@ -1,0 +1,47 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [
+            {
+              "name": "falausuario",
+              "type": "AMAZON.StreetName"
+            }
+          ],
+          "name": "CapturaFalaIntent",
+          "samples": [
+            "Fale comigo assim {falausuario}",
+            "Fale assim {falausuario}",
+            "Diga assim {falausuario}",
+            "{falausuario}",
+            "Fale {falausuario}",
+            "Diga {falausuario}"
+          ]
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "invocationName": "repita comigo"
+    }
+  }
+}
