@@ -8,13 +8,13 @@
 
 #### A Skill foi feita como projeto de estudo da aula do professor Celso Kitamura do Canal do YouTube Celso Kitamura.
 
-### Tecnologias, Softwares, serviços e Ferramentas usadas:
+### Tecnologias e serviços usados:
 
 ## Linguegem: 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" length="40"/>
 
-## Serviços:
+## Serviço:
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" length="40"/>
  
